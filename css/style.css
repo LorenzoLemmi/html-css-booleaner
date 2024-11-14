@@ -1,0 +1,14 @@
+#logo {
+    background-color: rgb(85, 210, 219);
+    width: 150px;
+    height: 125px;
+    margin-left: 10px;
+}
+
+nav {
+    background-color: rgb(85, 210, 219);
+}
+
+body {
+    margin: 0;
+}
