@@ -26,7 +26,14 @@ h4, h6 {
     margin-top: 0;
     margin-bottom: 0;
 }
-span {
+#the-booleaner {
     color: blue;
 }
 
+/*Photos*/
+img {
+    margin-top: 20px;  
+}
+figcaption {
+    font-size: 13px;
+}
