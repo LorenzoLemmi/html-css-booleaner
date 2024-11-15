@@ -16,3 +16,10 @@ Bonus
 Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale.
 Buon lavoro!
 
+## Screenshots
+
+![The-Booleaner](https://github.com/user-attachments/assets/fb6edf20-6df1-4761-9f58-ee1d3a82e753)
+![The-Booleaner-Bonus](https://github.com/user-attachments/assets/733880f7-91fb-4252-91d2-b1bb6f00f134)
+
+
+
