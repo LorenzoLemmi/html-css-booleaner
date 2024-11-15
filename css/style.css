@@ -8,15 +8,17 @@ main {
 
 /*Logo*/
 #logo {
-    background-color: rgb(85, 210, 219);
     width: 150px;
-    margin: 0 0 0 10px;
+    margin: 0 0 0 150px;
     padding: 28px 0 28px 0;
 }
 
 nav {
     background-color: rgb(85, 210, 219);
     height: 96px;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: 350px 200px;
 }
 
 /*Title*/
