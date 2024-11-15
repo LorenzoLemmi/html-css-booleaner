@@ -2,6 +2,10 @@
 body {
     margin: 0;
 }
+main {
+    margin-right: 10px;
+    margin-left: 10px;
+}
 
 /*Logo*/
 #logo {
@@ -61,5 +65,15 @@ th {
 }
 .first-line, .third-line {
     background-color: rgb(180, 198, 214);
+}
+
+/*Footer*/
+#copyright {
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    padding: 10px 0;
+    margin: 40px 0 0 0;
+    background-color: rgb(54, 54, 94);
 }
 
